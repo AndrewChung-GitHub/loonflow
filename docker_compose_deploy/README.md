@@ -9,10 +9,10 @@
 ```
 # 启动服务
 cd docker_compose_deploy
-docker compose -f docker-compse.yml up -d
+docker compose -f docker-compose.yml up -d
 
 # 停止服务
-docker compose -f docker-compse.yml stop
+docker compose -f docker-compose.yml stop
 ```
 
 ## 使用自己的mysql
