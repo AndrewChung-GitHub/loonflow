@@ -16,6 +16,7 @@ sphinx_docs/build/
 sphinx_docs/source/_build/
 docker_compose_deploy/loonflow_only/dbdata/*
 docker_compose_deploy/loonflow_shutongflow/dbdata/*
+docker_compose_deploy/loonflow-mysql/data/
 frontend/node_modules
 coverage_html_report
 .coverage
